@@ -1,0 +1,8 @@
+Make sure you have python installed (linked in the file)
+Before you press install double check that 'Add Python 3.9 to PATH' is checked otherwise this will not work
+Giftcard that will be able to generate:
+Roblox
+Fortnite
+Amazon
+Google play
+*In the next update their will be a paid verion 100% garantee for working giftcodes so be tuned for that
